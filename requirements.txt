@@ -1,0 +1,5 @@
+# Graphic Handling
+Pillow==10.3.0
+
+# Logic & Math
+numpy==1.26.4
